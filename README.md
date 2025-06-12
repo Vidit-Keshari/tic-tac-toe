@@ -27,4 +27,5 @@ You may also like:
 > Vidit: Old Series: 2048 - https://vidit-keshari.github.io/2048/ (Game) ~~~ https://github.com/vidit-keshari/2048/ (blog)
 
 A VGames Production
+
 ![VGames logo](https://github.com/user-attachments/assets/28f086c2-39e7-4d55-917e-558fa9e172dc)
